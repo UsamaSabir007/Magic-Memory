@@ -1,6 +1,6 @@
 # What this application accomplishes
 
-This project called "Magic Memory" is a game. What one can do is select two cards and if they match they stay the same otherwise the cards are flipped back. There is a counter in the bottom which counts the nuber of turns someone takes to match all the cards. If you click "New Game" the cards are shuffled and the number of turns is again set to zero.
+This project called "Magic Memory" is a game. What one can do is select two cards and if they match they stay the same otherwise the cards are flipped back. There is a counter in the bottom which counts the number of turns someone takes to match all the cards. If you click "New Game" the cards are shuffled and the number of turns is again set to zero.
 
 ## Technologies Used
 
